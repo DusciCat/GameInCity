@@ -1,0 +1,10 @@
+section {
+    width: 50%;
+    display: inline-block;
+}
+body {
+    background: brown;
+}
+#leftBLock {
+    float: left;
+}
