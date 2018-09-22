@@ -1,0 +1,17 @@
+section {
+    width: 50%;
+    display: inline-block;
+}
+body {
+    background: brown;
+}
+#leftBLock {
+    float: left;
+}
+#map {
+    width: 600px;
+    height: 400px;
+}
+#rightBlock {
+    float: right;
+}
