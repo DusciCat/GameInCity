@@ -4,14 +4,26 @@ section {
 }
 body {
     background: brown;
+    margin: 15px;
 }
 #leftBLock {
     float: left;
 }
 #map {
+    margin-top: 5px;
     width: 600px;
     height: 400px;
 }
 #rightBlock {
     float: right;
+}
+h1,h2,li,label {
+    color: white;
+}
+#score {
+    max-width: 10%;
+    display: inline;
+}
+#formScore {
+    margin-top: 10px;
 }
